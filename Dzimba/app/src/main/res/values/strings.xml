@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Dzimba</string>
+    <string name="app_full_name">Dzimba Investment Trust</string>
+    <string name="motto">Trust Us To Find You The Perfect Home</string>
+    <string name="beds">beds</string>
+
+
+    <string name="button_text">View Homes</string>
+    <string name="button_Gweru">Midlands State University</string>
+    <string name="button_Chinhoyi">Chinhoyi University of Technology</string>
+    <string name="button_Harare_Institute">Harare Institute of Technology</string>
+    <string name="button_Harare_UZ">University of Zimbabwe</string>
+    <string name="button_kwekwe">KweKwe Polytechnic</string>
+
+    <string name="gweru_house1">Langara House</string>
+    <string name="gweru_house2">Senga House</string>
+    <string name="chinhoyi_house1">House Patel</string>
+    <string name="chinhoyi_cottage2">Cottage Patel</string>
+    <string name="chinhoyi_house2">House Beehive</string>
+    <string name="chinhoyi_house3">House Brundish</string>
+    <string name="location_heading">location</string>
+    <string name="chinhoyi_locations">Chinhoyi University of Technology</string>
+
+    <string name="beehive_price">$95monthly</string>
+    <string name="house_brundish_price"></string>
+    <string name="cottage_patel_price"></string>
+    <string name="house_patel_price"></string>
+    <string name="senga_price">$90</string>
+    <string name="langara_price">$85</string>
+
+    <string name="beehive_view">VIEW</string>
+    <string name="brundish_view">VIEW</string>
+    <string name="cottage_patel_view">VIEW</string>
+    <string name="house_patel_view">VIEW</string>
+    <string name="beehiveChinhoyi">Beehive $90 (chinhoyi)</string>
+    <string name="brundishChinhoyi">Brundish</string>
+    <string name="CottagePatelChinhoyi">Patel Cottage $100 (chinhoyi)</string>
+    <string name="HousePatelChinhoyi">Patel House $100 (chinhoyi)</string>
+    <string name="SengaHouseGweru">Senga $90 (gweru)</string>
+    <string name="LangaraHouseGweru">Langara $85 (gweru)</string>
+
+    <string name="bookings_tab">Book Home</string>
+    <string name="view_homes_tab">View Home</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings for house facilities -->
+    <string name="LangaraFacility">Langara House is an all girls house located in upmarket location called Adelaide \n Its 1Km from the Main MSU Campus \n It has 10 rooms with 20 beds \n 5000 litre water tank \n Basketball Court</string>
+    <string name="SengaFacility">Senga House is an all Girls house that houses 10 people \n Small and cosy it has study areas\n 2 per room \n small lounge and fully fitted kitchen.</string>
+    <string name="BeehiveFacility">2 to 3 per room \n Fitted Kitchen \n Furnished Lounge \n Wide spaced garden for parties</string>
+    <string name="CottagePatelFacility">Small Coed cottage located in Kankuni Chinhoyi \n Fitted Kitchen \n Constant water supply</string>
+    <string name="HousePatelFacility"></string>
+
+    <!-- Strings related for payment text -->
+    <string name="paymentInstruction">To book home make payment to Dzimba Investment trust. Use Txn ID that starts with two letters(MP170912.1651.B02248) \nCheck availability of rooms with home agent before payment \nType in details and use dzimba button to book home.</string>
+    <string name="buttontext">Make Payment</string>
+    <string name="cellphoneHint">cellphone number</string>
+    <string name="idNumber">ID number</string>
+    <string name="ecocashConfirmation">Ecocash Txn details</string>
+    <string name="namehint">Full name</string>
+    <string name="househint">type home (langara, senga etc)</string>
+    <string name="durationhint">monthly or full semester</string>
+
+    <string-array name="house_spinner">
+        <item>Langara</item>
+        <item>Senga</item>
+        <item>Beehive</item>
+        <item>Patel House</item>
+        <item>Patel Cottage</item>
+    </string-array>
+
+    <string-array name="duration">
+        <item>Monthly Payment</item>
+        <item>Full Semester Payment</item>
+    </string-array>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+
+</resources>
