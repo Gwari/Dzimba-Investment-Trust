@@ -51,7 +51,7 @@ public class BookingPayments extends Activity {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(Intent.ACTION_CALL);
-                intent.setData(Uri.parse("tel:%2A 171 %2A1 %23"));
+                intent.setData(Uri.parse(Uri.parse("tel:" + "*151*1*1*0775751175") +Uri.encode("#")));
 
                 if (ActivityCompat.checkSelfPermission(getApplicationContext(),
                         Manifest.permission.CALL_PHONE) != PackageManager.PERMISSION_GRANTED) {
